@@ -1,10 +1,6 @@
 package io.quantics.codingchallenge.service;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class TreeServiceTest {
 
@@ -17,6 +13,11 @@ class TreeServiceTest {
 
     @Test
     void testBuildTree() {
+        // TODO implement method
+    }
+
+    @Test
+    void testSerializeTree() {
         // TODO implement method
     }
 
