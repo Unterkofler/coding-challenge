@@ -11,7 +11,7 @@ public class TreeService {
     public TreeService() {
     }
 
-    public List<Row> readInputFile(Path file) {
+    List<Row> readInputFile(Path file) {
         // TODO implement method
         return null;
     }
